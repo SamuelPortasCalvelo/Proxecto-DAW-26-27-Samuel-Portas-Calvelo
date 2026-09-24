@@ -47,5 +47,5 @@
 ## 3- Melloras futuras
 
 > *EXPLICACIÓN:* Neste apartado incluiranse as posibilidades de mellora da aplicación no futuro.
->
-[**<-Anterior**](../../README.md)
+
+[**<-Anterior**](../README.md)

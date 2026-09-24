@@ -134,6 +134,4 @@ Codificación y pruebas: fase en la que realizaremos los prototipos de la pagina
 
 <img width="1623" height="378" alt="image" src="https://github.com/user-attachments/assets/6d894f57-72d9-40ff-a00a-be4ec25ca54a" />
 
-
-
-[**<-Anterior**](../../README.md)
+[**<-Anterior**](../README.md)

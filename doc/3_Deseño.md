@@ -37,5 +37,5 @@
 > - Visualizar a información que vai a ser necesaria mostrar. Sabendo con que información imos traballar e sabendo a información que necesitamos mostrar, podemos organizar os datos dunha forma axeitada para gardalos na base de datos.
 >
 > Se temos as ideas máis claras do noso proxecto podemos sustituir os mockups por prototipos.
->
-[**<-Anterior**](../../README.md)
+
+[**<-Anterior**](../README.md)

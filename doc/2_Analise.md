@@ -61,4 +61,4 @@ Se é necesario algún hardware ou software adicional, deberá indicarse.
 
 > *EXPLICACION* É posible que o noso proxecto se centre en resolver un problema concreto que se poderá ampliar no futuro con novas funcionalidades, novas interfaces, etc.
 
-[**<-Anterior**](../../README.md)
+[**<-Anterior**](../README.md)
