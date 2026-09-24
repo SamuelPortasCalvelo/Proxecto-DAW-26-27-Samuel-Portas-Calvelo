@@ -20,10 +20,10 @@
   - [4- Planificación](#4--planificación)
 
 ## 1- Descrición do proxecto
-
+> Mejor que pongas: El proyecto .... a través de una aplicación web
 Mi proyecto consiste en la creación de una empresa dedicada al alquiler temporal de trajes para hombre de manera exclusivamente online a través de mi propia pagina web, orientada principalmente a personas que necesiten una vestimenta formal, pero que carezcan de un traje propio y/o no quieran gastar mucho dinero en un traje que es posible que usen solo una vez.
 
-La aplicación web permitirá a los usuario consultar el catálogo de trajes disponibles, conocer tanto sus características y precios y realizar una reserva para una fecha determinada. El principal objetivo es ofrecer un proceso sencillo y cómodo, evitando que el cliente se vea en la obligación de desplazarse a una tienda física. Además, el servicio estará basado en el envío y devolución de los trajes a domicilio o en un punto de entrega designado por el cliente, facilitando la recepción por su parte y la devolución una vez utilizado.
+La aplicación web permitirá a los usuario consultar el catálogo de trajes disponibles, conocer tanto sus características, precios y realizar una reserva para una fecha determinada. El principal objetivo es ofrecer un proceso sencillo y cómodo, evitando que el cliente se vea en la obligación de desplazarse a una tienda física. Además, el servicio estará basado en el envío y devolución de los trajes a domicilio o en un punto de entrega designado por el cliente, facilitando la recepción por su parte y la devolución una vez utilizado.
 
 ## 2- Empresa
 
@@ -113,12 +113,13 @@ La parte económica es la mas complicada en este proyecto por tener tantas varia
 Definitivamente es viable, igual no a corto plazo, pero si a largo plazo. Al empezar como autónomo, podría pedir alguna ayuda para jóvenes emprendedores y pequeñas empresas para mitigar un poco el gasto inicial.
 
 ## 3- Requirimentos técnicos
+> No vas a montar un servidor en tu casa para hacer esto así que cuando hablamos de la infraestructura nos referimos a las características del hosting donde se alojará la aplicación web
 
-Infraestructura: servidos de base de datos (MariaDB), almacenamiento mínimo de 1TB para guardar tanto el servidor como las imágenes de los productos y la base de datos, memoria RAM mínimo 32GB DDR4 (ya que la DDR5 esta muy cara) para poder manejar todo el trafico, una CPU potente para poder soportar tanto el trafico como la pagina web en sí como un Intel Core Ultra 7 270K o similares. El resto de componentes del ordenador estarían adaptados a estos requisitos previos.
+**Infraestructura**: servidos de base de datos (MariaDB), almacenamiento mínimo de 1TB para guardar tanto el servidor como las imágenes de los productos y la base de datos, memoria RAM mínimo 32GB DDR4 (ya que la DDR5 esta muy cara) para poder manejar todo el trafico, una CPU potente para poder soportar tanto el trafico como la pagina web en sí como un Intel Core Ultra 7 270K o similares. El resto de componentes del ordenador estarían adaptados a estos requisitos previos.
 
-Backend: utilizaría PHP ya que es un lenguaje que ya conozco y tengo experiencia con el y desarrollaría una API REST para manejar la base de datos y procese las respuestas en formato JSON para el Frontend.
+**Backend**: utilizaría PHP ya que es un lenguaje que ya conozco y tengo experiencia con el y desarrollaría una API REST para manejar la base de datos y procese las respuestas en formato JSON para el Frontend.
 
-Frontend: utilizaría JavaScript ya que es un lenguaje que ya conozco y tengo experiencia con el, desarrollaría un CRUD con AJAX en donde haré las operaciones esenciales de forma dinámica y utilice el JSON proporcionado por el 	backend para mostrar y actualizar la información e interacciones de la pagina web. Además de realizar el documento HTML y maquetar con CSS de forma responsive.
+**Frontend**: utilizaría JavaScript ya que es un lenguaje que ya conozco y tengo experiencia con el, desarrollaría un CRUD con AJAX en donde haré las operaciones esenciales de forma dinámica y utilice el JSON proporcionado por el 	backend para mostrar y actualizar la información e interacciones de la pagina web. Además de realizar el documento HTML y maquetar con CSS de forma responsive.
 
 
 ## 4- Planificación
