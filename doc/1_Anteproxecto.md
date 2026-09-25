@@ -20,10 +20,8 @@
   - [4- Planificación](#4--planificación)
 
 ## 1- Descrición do proxecto
-> Mejor que pongas: El proyecto .... a través de una aplicación web
-Mi proyecto consiste en la creación de una empresa dedicada al alquiler temporal de trajes para hombre de manera exclusivamente online a través de mi propia pagina web, orientada principalmente a personas que necesiten una vestimenta formal, pero que carezcan de un traje propio y/o no quieran gastar mucho dinero en un traje que es posible que usen solo una vez.
 
-La aplicación web permitirá a los usuario consultar el catálogo de trajes disponibles, conocer tanto sus características, precios y realizar una reserva para una fecha determinada. El principal objetivo es ofrecer un proceso sencillo y cómodo, evitando que el cliente se vea en la obligación de desplazarse a una tienda física. Además, el servicio estará basado en el envío y devolución de los trajes a domicilio o en un punto de entrega designado por el cliente, facilitando la recepción por su parte y la devolución una vez utilizado.
+Mi proyecto consiste en crear una empresa dedicada al alquiler de trajes para hombre a través de una página web propia, ofreciendo todo el servicio de forma exclusivamente online. La idea está pensada principalmente para personas jóvenes que necesiten llevar un traje para una ocasión concreta, pero que no tengan uno propio o prefieran no comprarlo para utilizarlo solamente una vez. De esta forma, podrán disponer de un traje para el momento que lo necesiten sin tener que hacer un gasto tan elevado como supondría comprar uno. Además, el servicio estará basado en el envío y devolución de los trajes a domicilio o en un punto de entrega designado por el cliente, facilitando la recepción por su parte y la devolución una vez utilizado.
 
 ## 2- Empresa
 
@@ -69,7 +67,7 @@ Al inicio necesitaría comprar muchos trajes y el alojo de la web, el resto son 
 
 Al empezar como autónomo podría beneficiarme de una cuota reducida por inicio de actividad la cual solo dura 12 meses en los cuales no tendría que pagarla si cumplo ciertos requisitos. Los impuestos que pagaría serían el IVA de todas las compras de trajes y de tintorería, costurero y envíos mas el IRPF que pagas según los ingresos que tuviste así que no puedo medir exactamente cuanto sería, por lo tanto no lo integraré en las cuentas inicialmente.
 
-Web (dependiendo del provedor): 1.49€/mes (1 año), después 6.99/mes. La opción mas barata que para empezar está muy bien. 
+Web (dependiendo del provedor): 2.59€/mes (1 año), después 11.99/mes. La opción mas barata que para empezar está muy bien. 
 
 Trajes: entre 150-200€ por cada traje básico hasta 700-1000€ por cada traje de alta gama. Para empezar el primer mes podrían ser 30 trajes de 200€ y 15 de alrededor de 850€. En total son 18750~20000€ aproximadamente.
 
@@ -113,9 +111,8 @@ La parte económica es la mas complicada en este proyecto por tener tantas varia
 Definitivamente es viable, igual no a corto plazo, pero si a largo plazo. Al empezar como autónomo, podría pedir alguna ayuda para jóvenes emprendedores y pequeñas empresas para mitigar un poco el gasto inicial.
 
 ## 3- Requirimentos técnicos
-> No vas a montar un servidor en tu casa para hacer esto así que cuando hablamos de la infraestructura nos referimos a las características del hosting donde se alojará la aplicación web
 
-**Infraestructura**: servidos de base de datos (MariaDB), almacenamiento mínimo de 1TB para guardar tanto el servidor como las imágenes de los productos y la base de datos, memoria RAM mínimo 32GB DDR4 (ya que la DDR5 esta muy cara) para poder manejar todo el trafico, una CPU potente para poder soportar tanto el trafico como la pagina web en sí como un Intel Core Ultra 7 270K o similares. El resto de componentes del ordenador estarían adaptados a estos requisitos previos.
+**Infraestructura**: para mi pagina web contrataría un hosting que me ofrece 20GB de almacenamiento, dominio gratis durante 1 año y copias de seguridad semanales además del alojamiento de la pagina web.
 
 **Backend**: utilizaría PHP ya que es un lenguaje que ya conozco y tengo experiencia con el y desarrollaría una API REST para manejar la base de datos y procese las respuestas en formato JSON para el Frontend.
 
