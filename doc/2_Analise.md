@@ -8,57 +8,38 @@
   - [5- Normativa](#5--normativa)
   - [6- Melloras futuras](#6--melloras-futuras)
 
-> *EXPLICACION*: Este documento describe os requirimentos para "nome do proxecto" especificando que funcionalidade ofrecerá e de que xeito.
 
 ## 1- Descrición Xeral
 
->*EXPLICACION*: Descrición Xeral do proxecto
+Mi proyecto consiste en crear una empresa dedicada al alquiler de trajes para hombre a través de una página web propia, ofreciendo todo el servicio de forma exclusivamente online. La idea está pensada principalmente para personas jóvenes que necesiten llevar un traje para una ocasión concreta, pero que no tengan uno propio o prefieran no comprarlo para utilizarlo solamente una vez. De esta forma, podrán disponer de un traje para el momento que lo necesiten sin tener que hacer un gasto tan elevado como supondría comprar uno. Además, el servicio estará basado en el envío y devolución de los trajes a domicilio o en un punto de entrega designado por el cliente, facilitando la recepción por su parte y la devolución una vez utilizado.
 
 ## 2- Funcionalidades
 
->*EXPLICACION* Describir que servizos ou operacións se van poder realizar por medio do noso proxecto, indicando que actores interveñen en cada caso.
->
-> Enumeradas, de maneira que na fase de deseño poidamos definir o diagrama ou configuración correspondente a cada funcionalidade.
-> Cada función ten uns datos de entrada e uns datos de saída. Entre os datos de entrada e de saída, realízase un proceso, que debe ser explicado.
-
-Exemplo:
-
-| Acción   |  Descrición        |
-|----------|--------------------|
-| Alta de productos   | Dar de alta os productos na base de datos|
-| Modificar productos | Modificación de productos na base de datos|
-| Presentación dos productos  | Mostra dos productos por medio da páxina web |
+<img width="1060" height="314" alt="image" src="https://github.com/user-attachments/assets/43e6d6f7-432d-4e06-bed8-aad24e46a48d" />
 
 ## 3- Tipos de usuarios
 
-> *EXPLICACION* Describir os tipos de usuario que poderán acceder ao noso sistema. Habitualmente os tipos de usuario veñen definidos polas funcionalidades ás cales teñen acceso. En termos xerais existen moitos grupos de usuarios: anónimos, novos, rexistrados, bloqueados, confirmados, verificados, administradores, etc.
->
-> Exemplo:
->
-> - Usuario xenérico, que terá acceso a ...
-> - Usuario técnico, que poderá...
+Se distinguen 3 tipos de usuario en la aplicación web:
+
+Usuario anónimo: es un usuario que ha accedido a la aplicación y no ha iniciado sesión. Tendrá acceso al catalogo y podrá ver los detalles de cada traje, pero no podrá realizar un alquiler.
+
+Usuario registrado: es un usuario que ha accedido a la aplicación y ha iniciado sesión. Tendrá acceso al catalogo y podrá ver los detalles de cada traje. También puede realizar alquileres.
+
+Usuario administrador: es un usuario que ha accedido a la aplicación y ha iniciado sesión. Este usuario tiene acceso a una zona de gestión de la página web donde podrá dar de alta los trajes, modificarlos y eliminarlos. También puede modificar el stock de diferentes trajes por cualquier incidente. Este usuario también puede ver el catálogo y ver los detalles de cada traje pero no podrá realizar alquileres.
+
 
 ## 4- Contorno operacional
 
-> *EXPLICACION* Neste apartado deben describirse os recursos necesarios, dende o punto de vista do usuario, para poder operar coa aplicación web. Habitualmente consiste nun navegador web actualizado e unha conexión a internet.
-Se é necesario algún hardware ou software adicional, deberá indicarse.
+Los recursos necesarios para usar la pagina web serían un navegador web cualquiera y conexión a internet. Si se realiza algún alquiler en la pagina también tendrá que disponer de un método de pago valido por ejemplo PayPal, Bizum, etc.
 
 ## 5- Normativa
 
-> *EXPLICACION* Investigarase que normativa vixente afecta ao desenvolvemento do proxecto e de que maneira. O proxecto debe adaptarse ás esixencias legais dos territorios onde vai operar.
-> 
-> Pola natureza dos sistema de información, unha lei que se vai a ter que mencionar de forma obrigatoria é la [Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD)](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673). O ámbito da LOPDPGDD é nacional. Se a aplicación está pensada para operar a nivel europeo, tamén se debe facer referencia á [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj). Na documentación debe afirmarse que o proxecto cumpre coa normativa vixente.
->
-> Para cumplir a LOPDPGDD e/ou GDPR debe ter un apartado na web onde se indique quen é a persoa responsable do tratamento dos datos e para que fins se van utilizar. Habitualmente esta información estructúrase nos seguintes apartados:
->
-> - Aviso legal.
-> - Política de privacidade.
-> - Política de cookies.
->
-> É acosenllable ver [exemplos de webs](https://www.spotify.com/es/legal/privacy-policy/) que conteñan textos legais referenciando a LOPDPGDD ou GDPR.
+Mi aplicación de momento va a trabajar a nivel español, por lo tanto tiene que cumplir de forma obligatoria con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD) y también el Reglamento (UE) 2016/679 del Parlamento y Consejo Europeos del 27 de abril de 2016 (Reglamento General de Protección de Datos), ya que la LOPDPGDD es una extensión de este reglamento europeo aplicado para España.
+El desarrollo de la aplicación se realizará teniendo en cuenta los requisitos establecidos por la normativa vigente.
+
 
 ## 6- Melloras futuras
 
-> *EXPLICACION* É posible que o noso proxecto se centre en resolver un problema concreto que se poderá ampliar no futuro con novas funcionalidades, novas interfaces, etc.
+Si el proyecto crece bastante se podría incluir alquileres de trajes para niños y/o vestidos para mujer. Puede ser que compramos trajes de segunda mano de particulares para darle una segunda vida.
 
 [**<-Anterior**](../README.md)
