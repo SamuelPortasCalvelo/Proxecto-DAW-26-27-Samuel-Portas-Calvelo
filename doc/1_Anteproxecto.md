@@ -77,25 +77,51 @@ La forma jurídica que escogería sería empezar por ser autónomo, ya que, al i
 
 ### 2.7- Investimentos
 
-Al inicio necesitaría comprar muchos trajes y el alojamiento de la web, el resto son gastos fijos pero dependiendo del rendimiento y el mes puedan diferir un poco por volumen de trabajo como los gastos en tintorería, gastos de arreglos hechos por algún sastre o costurero/costurera, el envío, etc. Cabe recalcar que inicialmente, únicamente yo gestionaré la empresa, por lo tanto no incluyo sueldos de empleados de momento; los gastos que se realicen de tintorería y costurero/a serán otras empresas que realizan ese trabajo en específico, la realización de envíos a cercanías las realizaré yo y el envío más lejano se realizará a través de una empresa de envíos.
+Al inicio necesitaría comprar muchos trajes y el alojamiento de la web, el resto son gastos fijos pero dependiendo del rendimiento y el mes pueden diferir un poco por volumen de trabajo como los gastos en tintorería, gastos de arreglos hechos por algún sastre o costurero/costurera, el envío, etc. Cabe recalcar que inicialmente, únicamente yo gestionaré la empresa, por lo tanto no incluyo sueldos de empleados de momento; los gastos que se realicen de tintorería y costurero/a serán otras empresas que realizan ese trabajo en específico, la realización de envíos a cercanías las realizaré yo y el envío más lejano se realizará a través de una empresa de envíos.
 
-#### 2.7.1- Custos
+Al empezar como autónomo podría beneficiarme de una cuota reducida por inicio de actividad la cual solo dura 12 meses en los cuales no tendría que pagarla si cumplo ciertos requisitos.
 
-Al empezar como autónomo podría beneficiarme de una cuota reducida por inicio de actividad la cual solo dura 12 meses en los cuales no tendría que pagarla si cumplo ciertos requisitos. Los impuestos que pagaría serían el IVA de todas las compras de trajes y de tintorería, costurero y envíos más el IRPF que pagas según los ingresos que tuviste así que no puedo medir exactamente cuánto sería, por lo tanto no lo integraré en las cuentas inicialmente.
-
-Web (dependiendo del proveedor): 2.59€/mes (1 año), después 11.99/mes. La opción más barata que para empezar está muy bien. 
+De inversión inicial para poder empezar la actividad en la empresa necesitaremos invertir en muchos trajes para tener un catálogo inicial decente, en algún almacén donde dejarlos mientras no se usan, fundas y perchas donde colgarlos y protegerlos, un TPV Virtual para poder realizar los cobros online junto con un hosting donde alojar la página web, diferentes gastos de gestoría para hacer el papeleo y algo de publicidad inicial para dar a conocer la empresa.
 
 Trajes: entre 150-200€ por cada traje básico hasta 700-1000€ o más por cada traje de alta gama. Para empezar el primer mes podrían ser 30 trajes de 200€ y 15 de alrededor de 850€. En total son 18750~20000€ aproximadamente.
 
-Tintorería: entre 500€ y 1000€ hasta 1500€ y 3000€ al mes dependiendo de la clientela.
+Almacenamiento: en internet se pueden encontrar algunos almacenes de entre 100 y 200 metros cuadrados por 500€ al mes en vigo, pontevedra y cercanías.
 
-Costurero/a: entre 100€ y 200€ hasta 400€ y 500€ por posibles pequeños arreglos y dependiendo de la clientela.
+Fundas y perchas: en Amazon, Ikea y demás se pueden encontrar packs de perchas estilo bumerang alrededor de 0.65€ la unidad. También encontré fundas para trajes por 0.8€ la unidad. Teniendo en cuenta que vamos a comprar alrededor de 45 perchas y fundas (1 de cada por cada traje), así que nos saldrían por mínimo 30€ de perchas y 36€ de fundas.
 
-Entrega a domicilio: entre 200€ y 500€ al mes dependiendo de la clientela y de donde sean los clientes (Pontevedra, Vigo, Vilagarcía, Santiago, etc).
+Web (dependiendo del proveedor): 2.59€/mes (1 año), después 11.99/mes. La opción más barata que para empezar está muy bien. 
 
-Total de inversión inicial: entre 23700€ y 31000€ de inversión inicial aproximadamente.
+TPV virtual: los gastos de pago virtuales varían mucho según la empresa y el volumen de ventas. Según diferentes comparaciones la tarifa diaria puede ser de entre 0.10€ hasta 0.50€, después por cada venta pueden tener una comisión variable que alcanza a ser entre un 0.15% hasta 1.19% del valor de cada venta. 
 
-Siguientes meses: dependiendo de las tendencias del momento y al ver que tenemos que ir ampliando el catálogo, cada mes se podrían gastar entre 4000€ y 7000€ dependiendo obviamente también de la clientela y de los ingresos que vayamos teniendo. Cuanto más vayamos ampliando el catálogo menos dinero aportaremos a este apartado.
+Gestoría: Los gastos de gestoría para iniciar un negocio en España oscilan entre 60€ y 300€ para trámites de constitución únicos, más una cuota mensual de entre 30€ a 60€ para autónomos.
+
+Publicidad: para que la gente conozca nuestra empresa y podamos obtener clientes deberemos de invertir en publicidad tanto por radio como por redes sociales, anuncios en internet, etc. El precio de un anuncio de 20 segundos en la radio en España varía desde unos 40€ a 100€ por emisión en emisoras locales o regionales hasta poder llegar a superar los 6000€ en horario de máxima audiencia en cadenas nacionales. Ya que nuestro negocio pretende operar a nivel nacional escogeremos la última opción. La publicidad en redes sociales es muy complicado de medir ya que suele rondar entre 0.30€ hasta 2€ por click. Según algunos estudios como The Manifest sobre Pymes, U.S. Small Business Administration, etc, las pequeñas y medianas empresas suelen gastar entre 500€ y 1500€ al mes en publicidad.
+
+En el peor de los casos, la inversión inicial se estimaría sobre los 28500€ teniendo en cuenta que puede haber algun imprevisto y sin contar el coste del TPV Virtual ya que se valora por ventas. Es posible que algunos de estos gastos se puedan también repetir entre muchos mas meses aparte del inicial como la publicidad y la gestoría.
+
+Durante los siguientes meses, dependiendo de las tendencias del momento y al ver que tenemos que ir ampliando el catálogo, cada mes se podrían gastar entre 4000€ y 7000€ dependiendo obviamente también de la clientela y de los ingresos que vayamos teniendo. Cuanto más vayamos ampliando el catálogo menos dinero aportaremos a este apartado.
+
+#### 2.7.1- Custos
+
+Los costes fijos para poder seguir operando con normalidad en la empresa son los siguientes:
+
+Seguros en caso de robo o pérdida durante el envío o por daños materiales en la mercancía por incendio, inundación, etc. Podrían rondar los 900€ anuales aproximadamente.
+
+Gestoría para que me administre el papeleo sobre la empresa. Podrían rondar entre los 30€ a 60€ mensuales para autónomos.
+
+Web: 2.59€/mes.
+
+Los costes variables pueden oscilar bastante dependiendo del número de ventas y la cantidad de la clientela. Este sería un estimado de lo que puede llegar a costar:
+
+Tintorería: entre 1000€ y 3000€ al mes dependiendo de la clientela.
+
+Costurero/a: entre 100€ y 500€ por posibles pequeños arreglos y dependiendo de la clientela.
+
+Entrega a domicilio: entre 300€ y 700€ al mes dependiendo de la clientela y de donde sean los clientes (Pontevedra, Vigo, Vilagarcía, Santiago, etc). Esto ya incluye también los gastos en material de embalaje.
+
+El total de costes de operación en el peor de los casos serían de aproximadamente de 4500€ al mes.
+
+Después de todo lo anterior hay que reservar una parte para mi propio salario que serían 1400€ mensuales, por lo que el coste mensual asciende hasta los 5900€ al mes aproximadamente.
 
 #### 2.7.2- Ingresos
 
@@ -120,11 +146,18 @@ Este proyecto, por la parte técnica, solo tiene de complejo hacer la aplicació
 
 #### 2.8.2 - Viabilidade económica
 
-La parte económica es la más complicada en este proyecto por tener tantas variables a tener en cuenta. Aun con eso, teniendo en cuenta que la inversión inicial puede llegar a ser de 31000€ si no hay ningún imprevisto, una vez que la gente nos vaya conociendo y llegando a oídos de más personas, iremos saldando la deuda inicial y empezando a percibir beneficios. Es viable económicamente si puedes resistir durante un tiempo esa deuda inicial, ya sea con un préstamo del banco o mitigándola con alguna subvención pública.
+Según algunos cálculos que he hecho, estimo que por cada día que un traje esté alquilado (normalmente los alquileres rondarán sobre 1 o 2 días) se cobrará entre un 20% y un 25% del coste total del traje inicialmente (revisable).
+
+Haciendo una estimación podríamos rondar entre 30 alquileres de trajes básicos y 10 o 15 de trajes de alta gama un mes con pocos alquileres. Los meses más fuertes (Verano, diciembre, enero) los alquileres de trajes básicos podrían llegar a ser de entre 75 y 130 por mes y de trajes de alta gama podríamos llegar hasta los 30 por mes.
+
+El total de ingresos en un mes convencional podríamos rondar entre los 7000€ aproximadamente.
+El total de ingresos en un mes con mucha actividad podría llegar a rondar sobre los 12100 aproximadamente o más.
+
+La parte económica es la más complicada en este proyecto por tener tantas variables a tener en cuenta. Aun con eso, teniendo en cuenta que la inversión inicial puede llegar a ser de 28500€ y los costes mensuales de aproximadamente 6000€ al mes. Sin embargo los ingresos en el peor de los casos se estiman sobre los 7000€ al mes, lo cual supera los costes mensuales y dependiendo de la afluencia de la clientela se prevé que sigan aumentando los ingresos. Para saldar la deuda inicial con esos ingresos necesitaríamos sobre 2 años y cuatro meses si el volumen de ingresos y de costes ni aumenta ni disminuye, por lo tanto, se deduce que el negocio es viable económicamente. Igualmente estos números pueden variar por razones extraordinarias como por ejemplo una inundación en el almacén o algún percance en algún envío. Al inicio también podríamos solicitar alguna ayuda pública para pequeñas y medianas empresas para que el inicio sea un poco mas llevadero. Una vez que la gente nos vaya conociendo y llegando a oídos de más personas, iremos saldando la deuda inicial y empezando a percibir beneficios reales.
 
 #### 2.8.3- Conclusión
 
-Definitivamente es viable, igual no a corto plazo, pero sí a largo plazo. Al empezar como autónomo, podría pedir alguna ayuda para jóvenes emprendedores y pequeñas empresas para mitigar un poco el gasto inicial.
+Definitivamente es viable, no a corto plazo, pero sí a largo plazo.
 
 ## 3- Requirimentos técnicos
 
