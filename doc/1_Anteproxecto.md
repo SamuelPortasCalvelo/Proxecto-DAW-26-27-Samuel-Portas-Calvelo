@@ -131,10 +131,10 @@ Trajes básicos: entre 40€ y 60€ por día.
 
 Trajes de alta gama: entre 175€ y 250€ por día.
 
-Haciendo una estimación podríamos rondar entre 30 alquileres de trajes básicos y 10 o 15 de trajes de alta gama un mes con pocos alquileres. Los meses más fuertes (Verano, diciembre, enero) los alquileres de trajes básicos podrían llegar a ser de entre 75 y 130 por mes y de trajes de alta gama podríamos llegar hasta los 30 por mes.
+Haciendo una estimación podríamos rondar entre 50 alquileres de trajes básicos y 10 o 15 de trajes de alta gama un mes con pocos alquileres. Los meses más fuertes (Verano, diciembre, enero) los alquileres de trajes básicos podrían llegar a ser de entre 75 y 130 por mes y de trajes de alta gama podríamos llegar hasta los 30 por mes.
 
-El total de ingresos en un mes convencional podríamos rondar entre los 7000€ aproximadamente.
-El total de ingresos en un mes con mucha actividad podría llegar a rondar sobre los 12100 aproximadamente o más.
+El total de ingresos en un mes convencional, en el peor de los casos, podríamos rondar entre los 4900€ aproximadamente, pero es muy posible que tengamos unos pocos mas de ingresos ya que estoy contando que todos los usuarios alquilan un traje solo durante 1 día, algunos otros usuarios los querrán alquilar por 2 o mas días.
+El total de ingresos en un mes con mucha actividad, en el peor de los casos, podría llegar a rondar sobre los 9750€ aproximadamente o más.
 
 Los números pueden variar bastante, pero tiempo al tiempo, que Roma no se construyó en un día.
 
@@ -148,12 +148,12 @@ Este proyecto, por la parte técnica, solo tiene de complejo hacer la aplicació
 
 Según algunos cálculos que he hecho, estimo que por cada día que un traje esté alquilado (normalmente los alquileres rondarán sobre 1 o 2 días) se cobrará entre un 20% y un 25% del coste total del traje inicialmente (revisable).
 
-Haciendo una estimación podríamos rondar entre 30 alquileres de trajes básicos y 10 o 15 de trajes de alta gama un mes con pocos alquileres. Los meses más fuertes (Verano, diciembre, enero) los alquileres de trajes básicos podrían llegar a ser de entre 75 y 130 por mes y de trajes de alta gama podríamos llegar hasta los 30 por mes.
+Haciendo una estimación podríamos rondar entre 50 alquileres de trajes básicos y 10 o 15 de trajes de alta gama un mes con pocos alquileres. Los meses más fuertes (Verano, diciembre, enero) los alquileres de trajes básicos podrían llegar a ser de entre 75 y 130 por mes y de trajes de alta gama podríamos llegar hasta los 30 por mes.
 
-El total de ingresos en un mes convencional podríamos rondar entre los 7000€ aproximadamente.
-El total de ingresos en un mes con mucha actividad podría llegar a rondar sobre los 12100 aproximadamente o más.
+El total de ingresos en un mes convencional, en el peor de los casos, podríamos rondar entre los 4900€ aproximadamente, pero es muy posible que tengamos unos pocos mas de ingresos ya que estoy contando que todos los usuarios alquilan un traje solo durante 1 día, algunos otros usuarios los querrán alquilar por 2 o mas días.
+El total de ingresos en un mes con mucha actividad, en el peor de los casos, podría llegar a rondar sobre los 9750€ aproximadamente o más.
 
-La parte económica es la más complicada en este proyecto por tener tantas variables a tener en cuenta. Aun con eso, teniendo en cuenta que la inversión inicial puede llegar a ser de 28500€ y los costes mensuales de aproximadamente 6000€ al mes. Sin embargo los ingresos en el peor de los casos se estiman sobre los 7000€ al mes, lo cual supera los costes mensuales y dependiendo de la afluencia de la clientela se prevé que sigan aumentando los ingresos. Para saldar la deuda inicial con esos ingresos necesitaríamos sobre 2 años y cuatro meses si el volumen de ingresos y de costes ni aumenta ni disminuye, por lo tanto, se deduce que el negocio es viable económicamente. Igualmente estos números pueden variar por razones extraordinarias como por ejemplo una inundación en el almacén o algún percance en algún envío. Al inicio también podríamos solicitar alguna ayuda pública para pequeñas y medianas empresas para que el inicio sea un poco mas llevadero. Una vez que la gente nos vaya conociendo y llegando a oídos de más personas, iremos saldando la deuda inicial y empezando a percibir beneficios reales.
+La parte económica es la más complicada en este proyecto por tener tantas variables a tener en cuenta. Hay que tener en cuenta que la inversión inicial puede llegar a ser de 28500€ y los costes mensuales de aproximadamente 6000€ al mes. Sin embargo los ingresos en el peor de los casos se estiman sobre los 5000€ al mes, lo cual no supera los costes mensuales pero se prevé que sigan aumentando los clientes gracias a la publicidad invertida y a los meses de mayor demanda. Igualmente estos números pueden variar por razones extraordinarias como por ejemplo una inundación en el almacén o algún percance en algún envío. Al inicio también podríamos solicitar alguna ayuda pública para pequeñas y medianas empresas para que el inicio sea un poco mas llevadero. Una vez que la gente nos vaya conociendo y llegando a oídos de más personas, iremos saldando la deuda inicial y empezando a percibir beneficios reales.
 
 #### 2.8.3- Conclusión
 
