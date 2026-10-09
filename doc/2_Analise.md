@@ -35,8 +35,21 @@ Los recursos necesarios para usar la pagina web serían un navegador web cualqui
 ## 5- Normativa
 
 Mi aplicación de momento va a trabajar a nivel español, por lo tanto tiene que cumplir de forma obligatoria con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD) y también el Reglamento (UE) 2016/679 del Parlamento y Consejo Europeos del 27 de abril de 2016 (Reglamento General de Protección de Datos), ya que la LOPDPGDD es una extensión de este reglamento europeo aplicado para España.
-El desarrollo de la aplicación se realizará teniendo en cuenta los requisitos establecidos por la normativa vigente.
+El desarrollo de la aplicación se realizará teniendo en cuenta los requisitos establecidos por la normativa vigente. En la aplicación web pondría una página sobre la politica de privacidad y añadiría lo siguiente:
 
+Los datos personales facilitados por los usuarios serán tratados con el fin de gestionar las cuentas de los clientes, tramitar los alquileres, realizar los envíos y atender las consultas recibidas a traves de la página web. 
+
+El tratamiento de los datos se realizará conforme al Reglamento General de Protección de Datos (RGPD) y a la Ley Orgánica 3/2018 (LOPDGDD). Los datos se conservarán durante el tiempo necesario para cumplir las finalidades indicadas y las obligaciones legales correspondientes.
+
+Los usuarios podrán solicitar en cualquier momento la eliminación de su cuenta junto con sus datos personales cumpliendo en todo momento con las obligaciones legales. Si quiere eliminar los datos personales o consultar los que hemos recopilado debe ponerse en contacto con el responsable del tratamiento de los datos a través de correo electrónico, indicado a continuación. 
+
+Responsable del tratamiento: 
+
+Samuel Portas Calvelo (administrador) 
+
+Email: contacto@trajeados.com
+
+Teléfono: +34 673 61 19 17
 
 ## 6- Melloras futuras
 
