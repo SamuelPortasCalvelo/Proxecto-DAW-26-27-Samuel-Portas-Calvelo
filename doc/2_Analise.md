@@ -51,6 +51,9 @@ Email: contacto@trajeados.com
 
 Teléfono: +34 673 61 19 17
 
+
+Esta pagina será accesible desde cualquier otra y haberá un enlace directo desde el footer.
+
 ## 6- Melloras futuras
 
 Si el proyecto crece bastante se podría incluir alquileres de trajes para niños y/o vestidos para mujer. Puede ser que compramos trajes de segunda mano de particulares para darle una segunda vida.
